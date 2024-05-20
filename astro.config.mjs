@@ -7,6 +7,8 @@ import { SITE_URL } from "./src/data/config";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://piyush.github.io',
+  base: 'portfolio-v5',
   integrations: [tailwind(), sitemap(), robotsTxt()],
   site: SITE_URL,
   markdown: {
@@ -14,6 +16,6 @@ export default defineConfig({
     shikiConfig: {
       theme: "nord",
       wrap: false
-    }
+    },
   }
 });
