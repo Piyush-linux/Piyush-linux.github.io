@@ -7,8 +7,8 @@ import { SITE_URL } from "./src/data/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://piyush.github.io',
-  base: 'portfolio-v5',
+  site: 'https://piyush-linux.github.io',
+  base: '/',
   integrations: [tailwind(), sitemap(), robotsTxt()],
   site: SITE_URL,
   markdown: {
