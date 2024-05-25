@@ -20,18 +20,22 @@ const presentation: Presentation = {
   socials: [
     {
       label: "X",
-      link: "https://twitter.com/itsstormzz_",
+      link: "https://twitter.com/piyush_linux",
     },
-    {
-      label: "Bento",
-      link: "https://bento.me/piyush-linux",
-    },
+    // {
+    //   label: "Bento",
+    //   link: "https://bento.me/piyush-linux",
+    // },
     {
       label: "Github",
       link: "https://github.com/Piyush-linux",
     },{
       label: "Mastodon",
-      link: "https://github.com/Piyush-linux",
+      link: "https://mastodon.social/@piyush_linux",
+      
+    },{
+      label: "Dev",
+      link: "https://dev.to/piyush-linux",
     },
   ],
 };
