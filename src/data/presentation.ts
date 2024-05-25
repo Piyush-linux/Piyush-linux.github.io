@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hey, I’m Piyush 👋",
   // profile: "/profile.webp",
   description:
-    "Namaste, All Code Guru's,  i'm a *Indian Web Developer* with over *1 year* of Web Experience. I am currently working with *NuxtJS and Rust*. Outside of work I mostly *virajman* on my *Linux Workstation* and try to explore the *Github Bazar* for some ineteresting *Spicy Projects* to work on.",
+    "Namaste, All Code Guru's,  i'm an *Indian Web Developer*. Currently Working with *NuxtJS and Rust*. Outside of work I mostly *Viraj-maan* on my *Linux Workstation* and try to explore the *Github Bazar* for some ineteresting *Spicy Projects* to work on.",
   socials: [
     {
       label: "X",
@@ -24,7 +24,7 @@ const presentation: Presentation = {
     },
     {
       label: "Bento",
-      link: "https://bento.me/piyush404",
+      link: "https://bento.me/piyush-linux",
     },
     {
       label: "Github",
