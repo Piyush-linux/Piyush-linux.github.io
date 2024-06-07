@@ -7,20 +7,20 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Meu ( Universal Convertor )",
-    techs: [ "Vitepress","Vue", "vite"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "Namaskar",
+    techs: [ "bash","shell"],
+    link: "https://github.com/Piyush-linux/namaskar",
   },
   {
-    title: "PiyuOS",
-    techs: ["Linux", "Wayland"],
-    link: "https://www.linablidi.fr/",
+    title: "Astra OS",
+    techs: ["Linux", "Nuxt", "Tailwind"],
+    link: "https://piyush-linux.github.io/astraos/",
   },
   {
-    title: "Baiju",
+    title: "portfolio v1",
     techs: ["HTML","CSS","JS","Bulma Css"],
-    link: "/",
-    isComingSoon: true,
+    link: "https://piyush98.netlify.app",
+    //isComingSoon: true,
   },
 ];
 
