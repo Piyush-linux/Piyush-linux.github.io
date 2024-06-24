@@ -1,54 +1,48 @@
 ---
-title: "The Power Of React Hooks"
-publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
-slug: "the-power-of-react-hooks"
+title: "My Linux Journey"
+publishedAt: 2024-06-05
+description: "Join me on this journey, and together, let's explore the limitless possibilities of Linux."
+slug: "linux-journey"
 isPublish: true
 ---
 
-## Vocesque meum remis est neque Neptunus monte
+Welcome to my Linux journey! Today, I want to share with you the evolution of my experience with Linux, from the early days of feeling like an outsider to where I stand now, wielding Archcraft and Openbox with the confidence of an elite user.
 
-Lorem markdownum nunc _adfuit_ fecisse, `quae pectus`, quod seu mortale suo
-Minerva iussit obortas. Favilla victa; alarum signis barbara, nec _sibi dentes_
-hostes?
+### 💰 Trap of Windows
 
-## Corporibus Leucon
+Windows has faced criticism for its data collection practices. Users concerned about privacy might prefer Linux distributions that are generally more transparent about data handling.
 
-Quaeque viridis, pariter possit. Velatus Thetis, ab Buten, in et ite positis
-annis ut Troasque altaque. Ancaeus convertit conscia Phinea petis. Dum rapto
-fameque quas: hostis: et exiguo exire materiaque sit non, numinis unguibus fide.
-Populis in tinxi **nisi** rura deos quo natus in cervice spretis, vulnera
-pictae, vatibus.
+<div style="width:100%"><div style="height:0;padding-bottom:66.66666666666666%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/u2wg2uXJbHzkXkPphr/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
 
-> Illi tenebras si vultum suae. Matrem iam: iniqua adire, tetigere meque,
-> cessant, gerebat.
+### ✨ Ubuntu Beginnings: A Foreign World
 
-## Montes ignarus precor rogabam primus ridet sanguine
+My journey began with Ubuntu, a popular distribution known for its user-friendliness and community support. At first, navigating the Linux landscape felt like entering a foreign country. Terminal commands, package managers, and customization options were overwhelming. Despite its reputation as a beginner-friendly option, I struggled to find my footing.
 
-In vir indefessus et patrios veniam. Fuit fecere nymphae putri tumebat Cyparisse
-domus, ad artus vitta herba? Et gaudet pressum aeterna animam. Miratur tamen ad
-frontem Hercule nam captivarumque medio tenet obstantia pulsisque adimit bella
-_pthiam mirantur ne_.
+<iframe src="https://giphy.com/embed/CBd6lbEDEHdcouLkh4" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/minecraft-microsoft-builder-minecraft-CBd6lbEDEHdcouLkh4">via GIPHY</a></p>
 
-> Lacertis et nomenque oracla exstabat: genitor nitor! Fluctus habes extinctum.
-> Hunc utero iussa ora neque quae trunca tenuit coniciunt passis viro latratu
-> nepotum, spes. Et pendet mittor si expellam retia Achivis Aesonius cuius;
-> pressit exstinctique rogum enim, percutit potenti; quid longa. Nostra animaque
-> genetrice viae, quam virus sermone in videri.
+### 💻 Discovering KDE Neon: Shifting Perspectives
 
-## Rapit harundine vana
+Seeking a change, I stumbled upon KDE Neon. This distribution, featuring the latest KDE Plasma desktop environment on top of Ubuntu LTS base, was a game-changer. The polished interface and seamless integration of KDE apps opened my eyes to the potential of Linux as a daily driver. I began customizing my desktop environment and exploring new applications with newfound enthusiasm.
 
-Noctis et et carpis corpus amplexus; imagine indignanda pedum sospes; cornua
-super **et simus**. Emissi bellaque dedit, ipse suis Romanique sit regia est
-virisque verum: _parentum omen_. Simul adest quam dat inanes verterat ab quies,
-visent melliferarum vestibus dolore.
+### 🖥️ Advancing to Manjaro: Embracing Complexity
 
-Vos illo in habet, ipse est suo fuit, solidissima invecta moverent [si] pericula
-ea pelle te quatiens proditus. Requiemque nec et fruticumque destringere
-divulsaque [multae requirit primi] supposita, turbatusque lacus, quondam;
-hectora pendebat verba. Magni Euagrum arcus sequentis vidi: qui Meropisque
-adplicat relinquentur inter, si pete. Magna constitit ore rediit et parentis
-pomaria lumina seque aura.
+As my confidence grew, so did my curiosity. I transitioned to Manjaro, a rolling-release distribution based on Arch Linux. This move marked a significant shift towards a more hands-on approach. Manjaro's bleeding-edge software updates and extensive repository broadened my Linux knowledge. I felt like an advanced user, tinkering with configurations and experimenting with different desktop environments.
 
-[multae requirit primi]: http://heu.io/
-[si]: http://infelixlucina.net/mutati
+### 👾 The Archcraft Revelation: Embracing Minimalism and Mastery
+
+After several __distro-hopping__ adventures, I discovered Archcraft. Built on Arch Linux, Archcraft features the lightweight Openbox window manager. Its minimalism and focus on simplicity resonated with me. Installing only what I needed and configuring every aspect of my system provided a sense of control and efficiency. As I delved deeper into Archcraft, scripting customizations and optimizing performance, I felt like an elite Linux user—a master of my digital domain.
+
+### 🚀 Reflections and Future Paths
+
+Looking back, each distribution I explored has shaped my understanding of Linux. Ubuntu introduced me to the basics, KDE Neon refined my desktop experience, Manjaro taught me the intricacies of a rolling release, and Archcraft empowered me with minimalism and customization. My Linux journey continues to evolve, driven by a passion for learning and a desire to push the boundaries of what's possible with open-source software.
+
+### Conclusion
+
+- Linux isn't just an operating system; it's a journey of discovery and growth. 
+
+- From feeling alienated to embracing the elite user experience, my path through Ubuntu, KDE Neon, Manjaro, and finally Archcraft has been transformative. 
+
+- Each step has not only enhanced my technical skills but also deepened my appreciation for the Linux community's ethos of freedom and creativity. 
+
+- As I continue forward, I eagerly anticipate what new challenges and insights await in the ever-evolving world of Linux.
+
