@@ -14,7 +14,7 @@ const projects: Project[] = [
   {
     title: "Astra OS",
     techs: ["Linux", "Nuxt", "Tailwind"],
-    link: "https://piyush-linux.github.io/astraos/",
+    link: "https://piyush-linux.github.io/AstraOS/",
   },
   {
     title: "portfolio v1",
